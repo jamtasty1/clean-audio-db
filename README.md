@@ -63,3 +63,7 @@ A title matches an entry when two things are true:
 2. Commit the files and open a pull request.
 
 Each title's file is laid out one field per line and one word per line. That way a pull request is a readable diff, and two people's releases of the same title merge cleanly.
+
+## Licence
+
+The data is dedicated to the public domain under [CC0 1.0](LICENSE). Use it, copy it and build on it however you like. No credit is needed.
