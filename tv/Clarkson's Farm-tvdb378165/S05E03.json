@@ -1,0 +1,38 @@
+{
+  "format": 1,
+  "title": "Clarkson's Farm",
+  "kind": "tv",
+  "year": 2021,
+  "ids": {"tvdb": 378165, "tmdb": 117648, "imdb": "tt10541088"},
+  "season": 5,
+  "episode": 3,
+  "releases": [
+    {"runtime": 2547.584, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [938.5, 940.52, "God!", "mild"],
+      [966.91, 967.29, "shit,", "strong"],
+      [1004.88, 1005.15, "fucking", "strong"],
+      [1151.28, 1151.72, "Jesus'", "mild"],
+      [1167.42, 1167.88, "Jesus'", "mild"],
+      [1173.98, 1174.3, "Jesus'", "mild"],
+      [1176.4, 1176.6, "fuck", "strong"],
+      [1349.0, 1349.36, "God.", "mild"],
+      [1427.82, 1428.78, "Jesus.", "mild"],
+      [1466.41, 1466.65, "cock.", "strong"],
+      [1516.75, 1517.35, "shit.", "strong"],
+      [1518.05, 1518.61, "Jesus,", "mild"],
+      [1518.97, 1519.45, "Christ.", "mild"],
+      [1528.97, 1529.53, "Fucking", "strong"],
+      [1529.51, 1529.73, "hell.", "mild"],
+      [1806.85, 1808.59, "jesus", "mild"],
+      [1810.95, 1811.83, "jesus", "mild"],
+      [1891.24, 1893.58, "Bloody", "mild"],
+      [1893.54, 1894.02, "hell.", "mild"],
+      [1936.08, 1936.6, "Fucking", "strong"],
+      [1936.58, 1936.98, "hell,", "mild"],
+      [2022.7, 2022.94, "-ass", "mild"],
+      [2335.24, 2337.06, "Fuck.", "strong"],
+      [2369.56, 2369.76, "shit.", "strong"],
+      [2452.02, 2452.62, "god", "mild"]
+    ]}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "title": "Fallout",
+  "kind": "tv",
+  "year": 2024,
+  "ids": {"tvdb": 416744, "tmdb": 106379, "imdb": "tt12637874"},
+  "season": 1,
+  "episode": 4,
+  "releases": [
+    {"runtime": 2920.5, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [64.11, 64.49, "bullshit", "strong"],
+      [64.89, 65.21, "goddamn", "mild"],
+      [202.66, 203.34, "Shit!", "strong"],
+      [204.2, 204.8, "Shit.", "strong"],
+      [280.58, 284.92, "hell!", "mild"],
+      [284.6, 284.92, "hell!", "mild"],
+      [321.72, 322.03, "damn!", "mild"],
+      [433.37, 433.65, "ass", "mild"],
+      [461.3, 461.61, "fuck", "strong"],
+      [466.56, 467.97, "Ass", "mild"],
+      [557.44, 557.72, "Fuck", "strong"],
+      [1033.67, 1033.95, "God.", "mild"],
+      [1823.21, 1824.46, "shit", "strong"],
+      [1949.27, 1949.59, "fucking", "strong"],
+      [2346.59, 2346.93, "motherfucker", "strong"],
+      [2443.02, 2443.45, "shitting", "strong"],
+      [2459.68, 2459.9, "shit.", "strong"],
+      [2561.55, 2562.05, "bitch.", "strong"]
+    ]}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "format": 1,
+  "title": "Fallout",
+  "kind": "tv",
+  "year": 2024,
+  "ids": {"tvdb": 416744, "tmdb": 106379, "imdb": "tt12637874"},
+  "season": 1,
+  "episode": 7,
+  "releases": [
+    {"runtime": 3663.375, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [221.08, 221.92, "hell,", "mild"],
+      [266.0, 266.64, "dumbass", "mild"],
+      [412.18, 412.18, "God.", "mild"],
+      [508.92, 509.24, "horseshit", "strong"],
+      [519.36, 519.76, "horseshit", "strong"],
+      [519.5, 519.76, "shit", "strong"],
+      [947.02, 953.28, "shit.", "strong"],
+      [952.89, 953.56, "shit.", "strong"],
+      [955.76, 955.98, "fucking", "strong"],
+      [973.65, 974.01, "fucking", "strong"],
+      [991.11, 991.29, "hell", "mild"],
+      [1812.68, 1812.89, "fuck", "strong"],
+      [1906.61, 1908.2, "shit.", "strong"],
+      [1906.63, 1908.21, "shit.", "strong"],
+      [1924.31, 1924.89, "shithole.", "strong"],
+      [1930.43, 1930.65, "hell.", "mild"],
+      [2088.7, 2089.34, "Fuck", "strong"],
+      [2191.37, 2191.5, "shit?", "strong"],
+      [2598.67, 2599.29, "Shit.", "strong"],
+      [2611.14, 2611.66, "God,", "mild"],
+      [2615.57, 2616.1, "God,", "mild"],
+      [2712.79, 2713.46, "Fuck.", "strong"],
+      [2713.53, 2715.08, "Shit.", "strong"],
+      [2717.03, 2718.99, "fuck!", "strong"],
+      [2717.12, 2719.0, "fuck.", "strong"],
+      [2963.54, 2964.94, "Fuck", "strong"],
+      [2978.56, 2979.96, "Fuck.", "strong"]
+    ]}
+  ]
+}

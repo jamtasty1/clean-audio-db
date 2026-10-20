@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "title": "Clarkson's Farm",
+  "kind": "tv",
+  "year": 2021,
+  "ids": {"tvdb": 378165, "tmdb": 117648, "imdb": "tt10541088"},
+  "season": 1,
+  "episode": 5,
+  "releases": [
+    {"runtime": 2748.192, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [61.21, 61.83, "Fucking", "strong"],
+      [63.53, 64.51, "Fucking", "strong"],
+      [64.51, 65.05, "hell.", "mild"],
+      [259.3, 259.85, "shitless.", "strong"],
+      [277.5, 277.68, "pissed", "strong"],
+      [329.5, 329.64, "shit", "strong"],
+      [506.96, 507.26, "god", "mild"],
+      [592.13, 592.35, "damn", "mild"],
+      [601.25, 601.65, "fucking", "strong"],
+      [729.69, 730.29, "bollocks", "strong"],
+      [770.8, 771.24, "bollocks", "strong"],
+      [936.19, 936.61, "arse", "mild"],
+      [993.7, 993.92, "hell", "mild"],
+      [1106.56, 1107.04, "God.", "mild"],
+      [1126.22, 1126.82, "God.", "mild"],
+      [1213.0, 1213.74, "God,", "mild"],
+      [1340.96, 1341.36, "god,", "mild"],
+      [1820.02, 1820.32, "shit", "strong"],
+      [2075.82, 2076.61, "Christ.", "mild"],
+      [2279.02, 2279.44, "fucking", "strong"],
+      [2288.26, 2288.64, "twat.", "strong"],
+      [2288.3, 2288.74, "twats.", "strong"],
+      [2335.3, 2335.48, "shit.", "strong"]
+    ]}
+  ]
+}

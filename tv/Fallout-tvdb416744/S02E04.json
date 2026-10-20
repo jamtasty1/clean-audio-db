@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "title": "Fallout",
+  "kind": "tv",
+  "year": 2024,
+  "ids": {"tvdb": 416744, "tmdb": 106379, "imdb": "tt12637874"},
+  "season": 2,
+  "episode": 4,
+  "releases": [
+    {"runtime": 2923.459, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [146.38, 147.1, "Fucking", "strong"],
+      [146.5, 147.22, "Fuckin'", "strong"],
+      [207.8, 208.14, "ass", "mild"],
+      [267.62, 268.2, "fucking", "strong"],
+      [268.72, 268.95, "shit.", "strong"],
+      [277.06, 277.98, "fucking...", "strong"],
+      [294.38, 294.54, "god,", "mild"],
+      [363.96, 366.04, "God.", "mild"],
+      [539.02, 539.3, "pissed", "strong"],
+      [542.78, 543.4, "shit,", "strong"],
+      [553.52, 554.04, "hell?", "mild"],
+      [579.5, 580.06, "shithole.", "strong"],
+      [584.3, 584.72, "bitches.", "strong"],
+      [675.95, 676.43, "asshole", "strong"],
+      [1071.61, 1071.87, "hell,", "mild"],
+      [1336.09, 1336.37, "God,", "mild"],
+      [1562.05, 1562.63, "shit.", "strong"],
+      [2001.36, 2001.8, "fuck's", "strong"],
+      [2131.59, 2132.45, "motherfuckers", "strong"],
+      [2135.93, 2136.03, "motherfuckers!", "strong"],
+      [2137.81, 2138.69, "Fuck!", "strong"],
+      [2146.63, 2147.21, "Shit.", "strong"],
+      [2149.98, 2150.26, "shit.", "strong"],
+      [2195.98, 2196.36, "asshole", "strong"]
+    ]}
+  ]
+}

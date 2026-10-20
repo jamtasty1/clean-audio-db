@@ -1,0 +1,42 @@
+{
+  "format": 1,
+  "title": "Marvel's The Punisher",
+  "kind": "tv",
+  "year": 2017,
+  "ids": {"tvdb": 331980, "tmdb": 67178, "imdb": "tt5675620"},
+  "season": 2,
+  "episode": 10,
+  "releases": [
+    {"runtime": 2778.901, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [21.31, 21.51, "shit.", "strong"],
+      [150.27, 150.55, "shit", "strong"],
+      [163.29, 163.55, "shit", "strong"],
+      [170.99, 171.24, "ass", "mild"],
+      [362.76, 363.02, "shit,", "strong"],
+      [395.72, 395.98, "shit.", "strong"],
+      [398.98, 399.5, "assholes", "strong"],
+      [402.84, 403.14, "pissed", "strong"],
+      [473.54, 473.74, "shit", "strong"],
+      [920.14, 920.78, "bullshit.", "strong"],
+      [981.6, 981.8, "hell.", "mild"],
+      [1067.97, 1068.21, "hell,", "mild"],
+      [1070.14, 1070.54, "Shit,", "strong"],
+      [1113.65, 1113.95, "shit.", "strong"],
+      [1124.62, 1124.92, "shit.", "strong"],
+      [1187.7, 1187.96, "shit.", "strong"],
+      [1389.52, 1389.81, "shit", "strong"],
+      [1647.11, 1647.37, "shitty", "strong"],
+      [1760.94, 1762.22, "hell's", "mild"],
+      [1762.98, 1763.28, "shit.", "strong"],
+      [1900.82, 1901.22, "shit", "strong"],
+      [2091.4, 2091.64, "hell", "mild"],
+      [2115.01, 2115.29, "hell", "mild"],
+      [2143.57, 2144.09, "hell?", "mild"],
+      [2171.26, 2171.61, "hell.", "mild"],
+      [2405.55, 2406.97, "Shit!", "strong"],
+      [2481.95, 2482.36, "asses", "mild"],
+      [2503.65, 2505.29, "shit,", "strong"],
+      [2503.98, 2504.7, "Shit,", "strong"]
+    ]}
+  ]
+}

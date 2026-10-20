@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "title": "Silo",
+  "kind": "tv",
+  "year": 2023,
+  "ids": {"tvdb": 403245, "tmdb": 125988, "imdb": "tt14688458"},
+  "season": 1,
+  "episode": 4,
+  "releases": [
+    {"runtime": 2706.245, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [192.08, 196.44, "Fuck.", "strong"],
+      [195.98, 197.6, "Fuck.", "strong"],
+      [212.88, 213.32, "fuck", "strong"],
+      [229.35, 229.69, "fuck", "strong"],
+      [593.66, 593.92, "damn!", "mild"],
+      [604.6, 604.94, "shit", "strong"],
+      [792.11, 792.28, "shit,", "strong"],
+      [892.77, 894.15, "hell", "mild"],
+      [1171.7, 1171.94, "fuck?", "strong"],
+      [1175.91, 1176.15, "fuck", "strong"],
+      [1181.57, 1181.85, "fuck", "strong"],
+      [1241.15, 1241.53, "bullshit.", "strong"],
+      [1261.93, 1262.21, "fuck", "strong"],
+      [1373.7, 1374.18, "fuck", "strong"],
+      [1493.61, 1494.11, "piss", "strong"],
+      [1570.71, 1571.04, "pissed", "strong"],
+      [2003.72, 2004.2, "Fuck", "strong"],
+      [2077.79, 2078.4, "Fuck", "strong"],
+      [2502.0, 2502.46, "God.", "mild"],
+      [2536.74, 2538.14, "Jesus!", "mild"],
+      [2551.0, 2551.6, "God.", "mild"],
+      [2564.3, 2565.88, "Fuck.", "strong"],
+      [2567.26, 2568.66, "Fuck!", "strong"]
+    ]}
+  ]
+}

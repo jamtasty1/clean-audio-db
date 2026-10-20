@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "title": "Ted Lasso",
+  "kind": "tv",
+  "year": 2020,
+  "ids": {"tvdb": 383203, "tmdb": 97546, "imdb": "tt10986410"},
+  "season": 2,
+  "episode": 4,
+  "releases": [
+    {"runtime": 1828.535, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [164.79, 165.23, "shit.", "strong"],
+      [258.64, 259.36, "God", "mild"],
+      [380.05, 380.57, "fucking", "strong"],
+      [380.49, 381.17, "shit.", "strong"],
+      [466.88, 467.24, "God.", "mild"],
+      [471.86, 472.36, "Fuck", "strong"],
+      [476.08, 476.58, "fuck", "strong"],
+      [626.96, 627.22, "fuck", "strong"],
+      [644.36, 644.8, "Fucking", "strong"],
+      [644.8, 645.26, "knobhead.", "strong"],
+      [950.38, 950.78, "shit.", "strong"],
+      [969.1, 969.58, "wanker.", "strong"],
+      [974.99, 975.35, "wanker?", "strong"],
+      [1421.86, 1422.22, "shit", "strong"],
+      [1527.52, 1527.93, "shitty", "strong"],
+      [1564.42, 1564.68, "fuck.", "strong"],
+      [1587.41, 1587.83, "bugger", "mild"]
+    ]}
+  ]
+}

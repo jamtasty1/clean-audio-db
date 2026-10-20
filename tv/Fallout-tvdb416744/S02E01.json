@@ -1,0 +1,38 @@
+{
+  "format": 1,
+  "title": "Fallout",
+  "kind": "tv",
+  "year": 2024,
+  "ids": {"tvdb": 416744, "tmdb": 106379, "imdb": "tt12637874"},
+  "season": 2,
+  "episode": 1,
+  "releases": [
+    {"runtime": 3747.459, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [305.93, 306.39, "fucking", "strong"],
+      [413.82, 414.96, "Goddamn,", "mild"],
+      [580.36, 580.57, "hell", "mild"],
+      [603.81, 604.49, "fucking", "strong"],
+      [735.4, 739.38, "asshole", "strong"],
+      [738.72, 739.38, "asshole", "strong"],
+      [749.72, 750.12, "fucking", "strong"],
+      [779.33, 779.82, "fucking", "strong"],
+      [791.48, 792.34, "motherfuckers", "strong"],
+      [825.3, 826.7, "Fuck.", "strong"],
+      [868.09, 868.41, "Fucking", "strong"],
+      [926.44, 927.84, "Fuck!", "strong"],
+      [928.96, 930.44, "Fuck!", "strong"],
+      [938.76, 940.27, "Fucking", "strong"],
+      [974.56, 974.82, "bitch!", "strong"],
+      [1040.33, 1040.71, "ass", "mild"],
+      [1055.07, 1055.45, "fucking", "strong"],
+      [1668.35, 1669.03, "god", "mild"],
+      [1668.64, 1669.36, "Goddamn,", "mild"],
+      [1668.87, 1669.35, "Damn", "mild"],
+      [1685.63, 1686.15, "God,", "mild"],
+      [1967.43, 1968.03, "Cocksucker", "strong"],
+      [1999.99, 2000.49, "ass,", "mild"],
+      [2113.61, 2113.89, "fucking", "strong"],
+      [3007.4, 3007.91, "shit.", "strong"]
+    ]}
+  ]
+}

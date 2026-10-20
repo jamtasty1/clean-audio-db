@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "title": "Silo",
+  "kind": "tv",
+  "year": 2023,
+  "ids": {"tvdb": 403245, "tmdb": 125988, "imdb": "tt14688458"},
+  "season": 1,
+  "episode": 7,
+  "releases": [
+    {"runtime": 2831.286, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [165.02, 165.24, "God.", "mild"],
+      [576.7, 576.98, "god.", "mild"],
+      [578.02, 578.42, "shit.", "strong"],
+      [638.61, 638.75, "shit", "strong"],
+      [660.8, 661.08, "hell", "mild"],
+      [663.6, 664.18, "damn", "mild"],
+      [675.35, 675.62, "hell", "mild"],
+      [725.38, 725.48, "hell", "mild"],
+      [728.74, 729.1, "Shit,", "strong"],
+      [865.7, 866.0, "crap", "mild"],
+      [1753.66, 1753.94, "Fuck.", "strong"],
+      [1827.65, 1827.97, "Shit!", "strong"],
+      [2504.42, 2505.0, "Shit,", "strong"],
+      [2516.64, 2516.88, "hell", "mild"]
+    ]}
+  ]
+}

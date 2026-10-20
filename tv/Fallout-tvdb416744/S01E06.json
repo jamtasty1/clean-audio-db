@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "title": "Fallout",
+  "kind": "tv",
+  "year": 2024,
+  "ids": {"tvdb": 416744, "tmdb": 106379, "imdb": "tt12637874"},
+  "season": 1,
+  "episode": 6,
+  "releases": [
+    {"runtime": 3640.875, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [106.22, 106.52, "god", "mild"],
+      [475.91, 476.22, "shit,", "strong"],
+      [504.26, 506.2, "fucking", "strong"],
+      [504.26, 506.18, "Fucking", "strong"],
+      [519.74, 520.02, "shit", "strong"],
+      [556.78, 557.4, "fuck", "strong"],
+      [566.04, 566.36, "fucking", "strong"],
+      [793.61, 793.91, "cock", "strong"],
+      [1181.02, 1181.76, "assholes?", "strong"],
+      [1249.76, 1249.98, "whore.", "strong"],
+      [1250.02, 1250.44, "shit.", "strong"],
+      [1260.26, 1260.44, "ass", "mild"],
+      [1267.12, 1267.38, "fucking", "strong"],
+      [1282.9, 1283.22, "fucking", "strong"],
+      [1508.99, 1509.25, "fucking", "strong"],
+      [2285.33, 2285.67, "shit.", "strong"],
+      [2294.88, 2295.28, "fucked", "strong"],
+      [2306.85, 2307.0, "bitch", "strong"],
+      [2310.69, 2311.01, "ass.", "mild"],
+      [2313.11, 2313.42, "goddamn", "mild"],
+      [2373.69, 2373.87, "ass", "mild"],
+      [2390.7, 2390.9, "hell", "mild"],
+      [2394.34, 2394.82, "dipshits", "strong"],
+      [2398.88, 2399.34, "fucking", "strong"],
+      [2433.76, 2434.07, "bitch", "strong"],
+      [2446.76, 2447.08, "fucked", "strong"],
+      [2560.22, 2560.74, "God", "mild"],
+      [2560.64, 2561.16, "Goddammit.", "mild"],
+      [2560.66, 2561.02, "damn", "mild"],
+      [2904.47, 2904.69, "cock", "strong"]
+    ]}
+  ]
+}

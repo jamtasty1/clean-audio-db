@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "title": "Clarkson's Farm",
+  "kind": "tv",
+  "year": 2021,
+  "ids": {"tvdb": 378165, "tmdb": 117648, "imdb": "tt10541088"},
+  "season": 1,
+  "episode": 2,
+  "releases": [
+    {"runtime": 2990.784, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [341.58, 347.2, "god", "mild"],
+      [346.7, 347.38, "God,", "mild"],
+      [378.48, 382.14, "bastard!", "strong"],
+      [380.39, 382.17, "bastard", "strong"],
+      [603.18, 603.5, "shit!", "strong"],
+      [604.88, 605.52, "Jesus,", "mild"],
+      [857.32, 857.96, "shit", "strong"],
+      [858.16, 859.44, "bloody...", "mild"],
+      [877.7, 878.22, "fucking", "strong"],
+      [878.2, 878.62, "hell.", "mild"],
+      [882.5, 882.9, "shit.", "strong"],
+      [914.57, 915.55, "fuck", "strong"],
+      [919.27, 919.85, "Fuck", "strong"],
+      [924.97, 925.69, "fucking", "strong"],
+      [925.49, 928.17, "fucking", "strong"],
+      [1034.82, 1035.54, "Shit.", "strong"],
+      [1340.1, 1340.34, "hell?", "mild"],
+      [1614.57, 1614.8, "bloody", "mild"],
+      [1663.74, 1664.34, "bollocks.", "strong"],
+      [1679.72, 1680.26, "God,", "mild"],
+      [1950.72, 1951.3, "bastards,", "strong"],
+      [2084.03, 2084.57, "Shit.", "strong"],
+      [2204.04, 2204.28, "cock", "strong"],
+      [2204.04, 2204.82, "cock.", "strong"],
+      [2234.82, 2235.02, "Jesus.", "mild"],
+      [2383.38, 2387.12, "God", "mild"],
+      [2386.84, 2387.2, "God.", "mild"],
+      [2492.65, 2493.39, "arse.", "mild"],
+      [2610.51, 2613.33, "god", "mild"],
+      [2612.85, 2613.35, "God,", "mild"]
+    ]}
+  ]
+}

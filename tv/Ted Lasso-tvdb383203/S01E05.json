@@ -1,0 +1,41 @@
+{
+  "format": 1,
+  "title": "Ted Lasso",
+  "kind": "tv",
+  "year": 2020,
+  "ids": {"tvdb": 383203, "tmdb": 97546, "imdb": "tt10986410"},
+  "season": 1,
+  "episode": 5,
+  "releases": [
+    {"runtime": 1865.632, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [74.32, 74.62, "God's", "mild"],
+      [152.2, 152.58, "god", "mild"],
+      [182.04, 182.52, "fucking", "strong"],
+      [247.87, 248.11, "fucking", "strong"],
+      [255.39, 255.77, "shit.", "strong"],
+      [355.19, 355.72, "twat?", "strong"],
+      [359.36, 359.74, "God,", "mild"],
+      [373.68, 373.98, "fucking", "strong"],
+      [438.07, 438.35, "fucking", "strong"],
+      [438.09, 438.89, "wanker", "strong"],
+      [505.34, 505.58, "shit,", "strong"],
+      [509.28, 509.62, "shit", "strong"],
+      [531.62, 531.93, "prick", "strong"],
+      [634.09, 634.71, "wanker.", "strong"],
+      [635.71, 636.09, "fuck", "strong"],
+      [901.66, 901.86, "fucking", "strong"],
+      [943.79, 944.37, "bullshit.", "strong"],
+      [974.79, 975.01, "crap", "mild"],
+      [1024.5, 1025.02, "wanker!", "strong"],
+      [1025.24, 1025.98, "Fucking", "strong"],
+      [1027.62, 1028.04, "Damn", "mild"],
+      [1056.58, 1057.0, "fucking", "strong"],
+      [1103.06, 1103.34, "fucking", "strong"],
+      [1218.37, 1218.59, "hell", "mild"],
+      [1301.28, 1302.42, "Fucking", "strong"],
+      [1565.96, 1566.68, "wanker?", "strong"],
+      [1584.92, 1585.58, "shit.", "strong"],
+      [1800.03, 1800.98, "wanker.", "strong"]
+    ]}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format": 1,
+  "title": "Clarkson's Farm",
+  "kind": "tv",
+  "year": 2021,
+  "ids": {"tvdb": 378165, "tmdb": 117648, "imdb": "tt10541088"},
+  "season": 2,
+  "episode": 6,
+  "releases": [
+    {"runtime": 2373.152, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [44.2, 44.68, "Fucking", "strong"],
+      [47.66, 48.06, "Fucking", "strong"],
+      [297.45, 298.05, "Jesus.", "mild"],
+      [361.77, 362.91, "god!", "mild"],
+      [651.52, 651.8, "God,", "mild"],
+      [818.68, 818.96, "piss", "strong"],
+      [936.59, 936.91, "God.", "mild"],
+      [944.17, 944.47, "God.", "mild"],
+      [1092.96, 1093.28, "god,", "mild"],
+      [1143.06, 1143.54, "bloody", "mild"],
+      [1143.48, 1143.77, "hell.", "mild"],
+      [1183.39, 1183.91, "shit,", "strong"],
+      [1238.48, 1238.82, "shit.", "strong"],
+      [1661.62, 1662.16, "God.", "mild"],
+      [1705.4, 1705.76, "shit.", "strong"],
+      [1747.97, 1748.31, "shit,", "strong"],
+      [1912.3, 1912.52, "bloody", "mild"],
+      [1917.34, 1917.66, "bloody", "mild"],
+      [2071.66, 2071.86, "hell", "mild"]
+    ]}
+  ]
+}

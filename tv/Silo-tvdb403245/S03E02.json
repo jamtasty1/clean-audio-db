@@ -1,0 +1,35 @@
+{
+  "format": 1,
+  "title": "Silo",
+  "kind": "tv",
+  "year": 2023,
+  "ids": {"tvdb": 403245, "tmdb": 125988, "imdb": "tt14688458"},
+  "season": 3,
+  "episode": 2,
+  "releases": [
+    {"runtime": 3108.272, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [166.62, 166.86, "-ass", "mild"],
+      [209.17, 212.13, "pissed", "strong"],
+      [209.19, 212.07, "pissed", "strong"],
+      [269.21, 269.85, "fuck.", "strong"],
+      [782.97, 783.19, "bitch?", "strong"],
+      [962.44, 962.84, "shitty", "strong"],
+      [1170.33, 1172.78, "Shit.", "strong"],
+      [1170.44, 1170.98, "Shit.", "strong"],
+      [1177.12, 1177.28, "fuck", "strong"],
+      [1764.96, 1765.1, "fuck?", "strong"],
+      [1767.21, 1767.37, "fucking", "strong"],
+      [1973.46, 1974.98, "bullshit.", "strong"],
+      [1974.64, 1974.98, "bullshit.", "strong"],
+      [1994.19, 1994.39, "fuck", "strong"],
+      [2002.87, 2003.41, "fucking", "strong"],
+      [2009.86, 2009.98, "hell", "mild"],
+      [2021.39, 2021.63, "fuck", "strong"],
+      [2233.49, 2233.65, "fucking", "strong"],
+      [2294.37, 2294.97, "Fuck.", "strong"],
+      [2577.02, 2577.42, "shitty", "strong"],
+      [2668.04, 2668.38, "fuck", "strong"],
+      [2715.66, 2715.88, "crap", "mild"]
+    ]}
+  ]
+}

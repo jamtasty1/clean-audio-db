@@ -1,0 +1,33 @@
+{
+  "format": 1,
+  "title": "Silo",
+  "kind": "tv",
+  "year": 2023,
+  "ids": {"tvdb": 403245, "tmdb": 125988, "imdb": "tt14688458"},
+  "season": 1,
+  "episode": 8,
+  "releases": [
+    {"runtime": 2605.811, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [605.58, 605.84, "fuck", "strong"],
+      [617.46, 617.76, "shit", "strong"],
+      [715.34, 716.06, "fucking", "strong"],
+      [911.81, 912.25, "fucking", "strong"],
+      [925.1, 925.43, "asshole?", "strong"],
+      [952.46, 953.12, "fuckwads", "strong"],
+      [989.12, 989.34, "fucking", "strong"],
+      [1020.27, 1020.89, "fucking", "strong"],
+      [1044.87, 1045.15, "pissed", "strong"],
+      [1045.15, 1045.17, "Fuck", "strong"],
+      [1817.59, 1817.87, "bitch.", "strong"],
+      [2069.6, 2070.2, "Fuck.", "strong"],
+      [2110.62, 2110.76, "fucking", "strong"],
+      [2127.04, 2127.26, "fuck", "strong"],
+      [2173.01, 2173.42, "fucking", "strong"],
+      [2196.47, 2198.25, "fuck", "strong"],
+      [2286.53, 2287.01, "fucking", "strong"],
+      [2384.98, 2385.38, "damn", "mild"],
+      [2385.23, 2385.61, "dammit,", "mild"],
+      [2491.76, 2492.06, "fucking", "strong"]
+    ]}
+  ]
+}

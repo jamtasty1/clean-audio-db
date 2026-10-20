@@ -1,0 +1,41 @@
+{
+  "format": 1,
+  "title": "Ted Lasso",
+  "kind": "tv",
+  "year": 2020,
+  "ids": {"tvdb": 383203, "tmdb": 97546, "imdb": "tt10986410"},
+  "season": 1,
+  "episode": 6,
+  "releases": [
+    {"runtime": 1903.008, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [171.3, 171.82, "arse", "mild"],
+      [483.56, 484.0, "dickheads", "strong"],
+      [483.58, 484.13, "dickhead's", "strong"],
+      [494.9, 496.7, "Fuck", "strong"],
+      [496.84, 497.36, "Fuck", "strong"],
+      [501.6, 503.56, "shit!", "strong"],
+      [503.14, 503.56, "shit!", "strong"],
+      [549.96, 550.42, "Fuck", "strong"],
+      [570.93, 571.27, "Christ,", "mild"],
+      [600.91, 602.11, "shit", "strong"],
+      [673.87, 674.21, "fuck's", "strong"],
+      [783.08, 783.35, "shit", "strong"],
+      [858.56, 859.68, "God,", "mild"],
+      [951.99, 952.29, "fuck's", "strong"],
+      [956.73, 957.43, "shit.", "strong"],
+      [1010.47, 1010.77, "fucking", "strong"],
+      [1064.06, 1064.36, "Christ.", "mild"],
+      [1111.47, 1111.95, "Fucking", "strong"],
+      [1114.25, 1114.53, "fucking", "strong"],
+      [1162.39, 1162.89, "Fucking", "strong"],
+      [1170.37, 1170.87, "bullshit", "strong"],
+      [1173.01, 1173.47, "bullshit.", "strong"],
+      [1369.8, 1370.12, "fucking", "strong"],
+      [1462.33, 1462.81, "Fuck", "strong"],
+      [1559.62, 1559.92, "fucking", "strong"],
+      [1600.32, 1600.62, "crap?", "mild"],
+      [1653.32, 1653.72, "bastard", "strong"],
+      [1764.84, 1765.28, "Hell,", "mild"]
+    ]}
+  ]
+}

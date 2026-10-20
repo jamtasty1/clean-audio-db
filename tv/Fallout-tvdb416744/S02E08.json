@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "title": "Fallout",
+  "kind": "tv",
+  "year": 2024,
+  "ids": {"tvdb": 416744, "tmdb": 106379, "imdb": "tt12637874"},
+  "season": 2,
+  "episode": 8,
+  "releases": [
+    {"runtime": 3374.167, "codec": "eac3", "channels": 6, "detect": 4, "added": "2026-10-20", "hits": [
+      [135.56, 136.04, "Shit.", "strong"],
+      [412.72, 413.06, "fuck", "strong"],
+      [451.49, 451.8, "shit", "strong"],
+      [876.29, 877.51, "god.", "mild"],
+      [877.22, 877.5, "God.", "mild"],
+      [898.77, 899.29, "Fuck!", "strong"],
+      [989.4, 990.95, "Shit.", "strong"],
+      [1566.88, 1567.4, "ass", "mild"],
+      [1702.07, 1702.39, "damn", "mild"],
+      [2800.12, 2800.68, "-ass", "mild"]
+    ]}
+  ]
+}
