@@ -7,7 +7,7 @@
   "season": 1,
   "episode": 8,
   "releases": [
-    {"runtime": 2927.008, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-27", "hits": [
+    {"runtime": 2927.008, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-28", "hits": [
       [178.58, 178.86, "fucked.", "strong", "", [-0.055, 0.2]],
       [196.37, 198.89, "..bullshit", "strong"],
       [197.88, 198.89, "bullshit", "strong"],
