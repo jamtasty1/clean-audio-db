@@ -7,7 +7,7 @@
   "season": 1,
   "episode": 4,
   "releases": [
-    {"runtime": 3131.52, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-27", "hits": [
+    {"runtime": 3131.52, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-28", "hits": [
       [33.78, 33.98, "bitch", "strong", "", [0.08, 0.16]],
       [204.35, 205.92, "God.", "mild"],
       [259.9, 260.62, "shit.", "strong", "", [-0.299, 0.2]],
