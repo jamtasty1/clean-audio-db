@@ -7,7 +7,7 @@
   "season": 2,
   "episode": 3,
   "releases": [
-    {"runtime": 2422.624, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-27", "hits": [
+    {"runtime": 2422.624, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-28", "hits": [
       [397.9, 398.28, "bloody", "mild", "", [0.08, 0.223]],
       [443.0, 443.4, "bullshit.", "strong", "", [-0.082, 0.229]],
       [445.66, 446.32, "fucking", "strong", "", [0.025, 0.28]],
