@@ -7,7 +7,7 @@
   "season": 1,
   "episode": 6,
   "releases": [
-    {"runtime": 2459.232, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-27", "hits": [
+    {"runtime": 2459.232, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-28", "hits": [
       [84.86, 85.21, "bloody", "mild", "", [-0.128, 0.204]],
       [195.07, 195.59, "jesus", "mild", "", [-0.147, 0.2]],
       [206.87, 207.25, "bloody", "mild", "", [-0.167, 0.212]],
