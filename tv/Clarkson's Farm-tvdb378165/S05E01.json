@@ -7,7 +7,7 @@
   "season": 5,
   "episode": 1,
   "releases": [
-    {"runtime": 2903.36, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-27", "hits": [
+    {"runtime": 2903.36, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-28", "hits": [
       [32.76, 32.81, "God.", "mild", "", [0.067, 0.2]],
       [129.08, 129.84, "Fuck!", "strong", "", [-0.025, 0.2]],
       [130.04, 130.5, "Fuck!", "strong", "", [0.08, 0.2]],
