@@ -7,7 +7,7 @@
   "season": 3,
   "episode": 3,
   "releases": [
-    {"runtime": 2851.84, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-27", "hits": [
+    {"runtime": 2851.84, "codec": "eac3", "channels": 6, "detect": 7, "added": "2026-10-28", "hits": [
       [453.88, 454.4, "Ass", "mild", "", [0.08, 0.2]],
       [554.87, 555.29, "Jesus", "mild", "", [-0.254, 0.257]],
       [555.01, 555.66, "Christ,", "mild", "", [-0.48, 0.16]],
